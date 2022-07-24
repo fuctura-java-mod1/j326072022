@@ -1,8 +1,6 @@
-# j326072022
-Repositório da Turma de Java 3 - 26/07/2022
+# Setup
 
-
-## Setup
+## Ferramentas necessárias durante a aula 
 
 - Spring Suite Tools: https://spring.io/tools
 
@@ -15,3 +13,7 @@ Repositório da Turma de Java 3 - 26/07/2022
 - Lombok: https://projectlombok.org/download
 
 ![ Lombok](https://i.ibb.co/YcHHz04/image.png "Lombok")
+
+- Postman: https://www.postman.com/downloads/
+
+![ Postman](https://i.ibb.co/2y3vnxq/image.png "Postman")
