@@ -5,7 +5,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import br.com.fuctura.aula2.beans.CalculadorResumo;
 import br.com.fuctura.aula2.beans.CalculadoraFGTS;
-import br.com.fuctura.aula2.beans.NaoEhBean;
 import br.com.fuctura.aula2.config.ServiceConfig;
 
 @SpringBootApplication
