@@ -10,13 +10,7 @@ import br.com.fuctura.aula2.config.ServiceConfig;
 public class Aula2Application {
 
 	public static void main(String[] args) {
-		var contexto  =  new AnnotationConfigApplicationContext(ServiceConfig.class);
-		
-		var avaliado = contexto.getBean(Avaliador.class);
-	
-		avaliado.avaliar();
-		
-		contexto.close();
+		//Execute o método avaliar() da Classe Avaliador.
 	}
 
 }
