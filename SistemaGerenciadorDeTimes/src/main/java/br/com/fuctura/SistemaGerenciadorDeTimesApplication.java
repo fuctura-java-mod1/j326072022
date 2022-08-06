@@ -1,13 +1,13 @@
-package br.com.fuctura.aula2;
+package br.com.fuctura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Aula2Application {
+public class SistemaGerenciadorDeTimesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Aula2Application.class, args);	
+		SpringApplication.run(SistemaGerenciadorDeTimesApplication.class, args);
 	}
 
 }
