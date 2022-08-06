@@ -1,15 +1,30 @@
-# Exercício 1 - Executar o Avaliador
+# Exercício 2 - Sistema Gerenciador de Times (Entrega 1)
 
-Você deve utilizar os conceito visto em sala de aula para corrigir o projeto e executá-lo com sucesso.
+Para este exercício utilizaremos a modelagem a seguir:
 
-# Instruções:
-- Importar o projeto Aula 2.
-- Resolver os problemas de nullpointer.
-- Resolver os problemas com os beans.
-- Invocar o método **avaliar()** da classe **Avaliador**
-- Executar o projeto com sucesso.
+![ Spring Suite Tools](https://i.ibb.co/hXHtQ6z/image.png "Spring Suite Tools")
 
-### Conteitos visto durante a aula:
+# Requisitos:
+- Este projeto precisa ser feito por 2 ou mais pessoas
+- Este projeto deve ser versionado e compartilhado utilizando o Github
+- Cada integrante deve ficar responsável por criar algum controlador
 
-- Criação de Beans
-- Desambiguação
+# Objetivos:
+
+- Crie um projeto Spring chamado: SistemaGerenciadorDeTimes
+- Para cada entidade (Jogador, Contrato, Clube, etc...) da imagem acima crie um Controlador.
+- Cada controlador deve fornecer enpoints para gerenciar cada entidade. Utilize a imagem abaixo como referência
+
+![ Spring Suite Tools](https://i.ibb.co/wJ3XM5J/image.png "Spring Suite Tools")
+
+Ou seja, para o controlador Clube, por exemplo, você deve criar os endpoints:
+
+
+| Endpoint        | Método           
+| ------------- |:-------------:| 
+| /clube/       | GET           | 
+| /clube/       | POST          |
+| /clube/{id}   | GET           |
+| /clube/{id}   | PUT           |
+| /clube/{id}   | PATCH         |
+| /clube/{id}   | DELETE        |
