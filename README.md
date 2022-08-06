@@ -14,6 +14,7 @@ Para este exercício utilizaremos a modelagem a seguir:
 - Crie um projeto Spring chamado: SistemaGerenciadorDeTimes
 - Para cada entidade (Jogador, Contrato, Clube, etc...) da imagem acima crie um Controlador.
 - Cada controlador deve fornecer enpoints para gerenciar cada entidade. Utilize a imagem abaixo como referência
+- Utilizar o Postman para testar as APIs
 
 ![ Spring Suite Tools](https://i.ibb.co/wJ3XM5J/image.png "Spring Suite Tools")
 
