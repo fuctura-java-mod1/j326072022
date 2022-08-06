@@ -1,10 +1,10 @@
-# j326072022
-Repositório da Turma de Java 3 - 26/07/2022
+# Aula 3
 
-## Starters 
+Nesta aula nós iremos utilizar o Starter Web. Para utilizar o Starter você precisa adicionar a dependência **spring-boot-starter-web**:
 
-https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/using-boot-build-systems.html
-
-## Configurações mais comun:
-
-https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
+```xml
+<dependency>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+```
