@@ -1,5 +1,11 @@
 # Aula 4
 
+
+### Modelo
+
+![ Spring Suite Tools](https://i.ibb.co/hXHtQ6z/image.png "Spring Suite Tools")
+
+
 ### Nesta aula nós iremos utilizar o Spring Data JPA junto com o banco de dados H2. 
 
 - Adicione as seguinte dependências ao seu projeto:
