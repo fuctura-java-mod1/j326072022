@@ -34,6 +34,12 @@
 ### Query Methods
 https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods
 
+### Exibir no console o SQL formatado
+```text
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+```
+
 ### Externalizar Consulta
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
