@@ -23,16 +23,6 @@ public class JogadorController {
 		return List.of(j1);		
 	}
 	
-	//http://localhost:9081/contrato/estudo
-	@RequestMapping(path = "/contrato/estudo",  method = RequestMethod.GET)
-	public Jogador getJogador2(){
-		var j1 = new Jogador();
-		j1.setNome("CR7");
-		j1.setPeso(90.0);
-		
-		return j1;		
-	}
-	
 	/*
 	{
 	    "nome": "Rodrigo",
