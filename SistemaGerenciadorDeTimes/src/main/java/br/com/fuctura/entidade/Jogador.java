@@ -19,4 +19,6 @@ public class Jogador {
 	private Long id;
 	private String nome;
 	private Double peso;
+	private Double altura;
+	private Double imc;
 }
