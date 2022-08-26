@@ -59,6 +59,11 @@ public class SwaggerConfig {
 
 ```
 
+## Configurar application.properties
+
+spring.mvc.pathmatch.matching-strategy=ant-path-matcher
+
+
 ## Adicionar as dependências
 
 ```xml
